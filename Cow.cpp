@@ -25,7 +25,7 @@ Cow::~Cow()
 
 void Cow::talk()
 {
-    cout <<"Moo" <<endl;
+    cout <<"Moooooooooooooo" <<endl;
 }
 
 // Cows have a lot in common with cats.
